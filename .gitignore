@@ -1,0 +1,8 @@
+# Downloaded Ubuntu rootfs tarballs
+ubuntu.tar.gz
+*.tar.gz
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*~
